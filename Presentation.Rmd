@@ -1,0 +1,40 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 549"
+author: "Grace Henry<br>henryn98@uw.edu"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About Me | Personal
+
+- Birth place: Seattle, WA!
+- Favorite foods: all types of sandwiches, sushi, pho, and all things delicious
+- Favorite animal: sea otters
+
+## About Me | Academic
+
+- Undergrad: University of Washington, SEFS
+- Major: Environmental Science and Resource Management 
+
+# Data Science
+
+## Course topics | 3 things I enjoyed learning about
+
+1) Using R Markdown for publishing  
+2) GitHub basics such as pushing and pulling 
+3) Cool examples of Shiny apps  
+
+## Course topics | 3 things I'd like to learn more about
+
+1) Branches in GitHub
+2) How to deal with merge conflicts and how to avoid merge conflicts when working with multiple collaborators 
+3) How to go back to previous versions of something on GitHub
+
+## {data-background=img/picture.png data-background-size=cover}
+
